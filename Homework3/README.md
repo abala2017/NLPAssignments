@@ -2,4 +2,4 @@ The purpose of this program is to illustrate the uses of tokenization, lemmatiza
 
 To run this code, you need to go into the terminal and navigate to the folder containing homework3_axb200075.py and enter the following command:
 
-python homework3_axb200075.py anat19.txt
+>>> python homework3_axb200075.py anat19.txt
