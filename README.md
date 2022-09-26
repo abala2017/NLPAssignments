@@ -7,3 +7,5 @@
 [Homework #2](https://github.com/abala2017/NLPAssignments/blob/main/PortfolioAssignment2-axb200075.pdf)
 
 [Homework #3](https://github.com/abala2017/NLPAssignments/tree/main/Homework3)
+
+[Homework Wordnet](https://github.com/abala2017/NLPAssignments/tree/main/WordNet)
