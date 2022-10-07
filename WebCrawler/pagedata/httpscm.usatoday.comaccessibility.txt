@@ -1,0 +1,5 @@
+ The USA TODAY NETWORK is committed to making its desktop
+site, mobile website, and mobile applications accessible for all viewers. While
+we continue to develop and enhance our accessibility features, we encourage you
+to explore the accessibility options installed on your device. Below is an
+overview for enabling some of the accessibility options on your desktop device. Enabling Accessibility Features (Microsoft Windows 10) Screen Reader Support Zoom Support Color Contrast Support Navigation Support Enabling Accessibility Features (OS X El Capitan, version 10.11) Screen Reader Support Zoom Support 1) To zoom with keyboard shortcuts, select "Use keyboard shortcuts to zoom." 2) To zoom with your mouse or trackpad, select "Use scroll gesture with modifier keys to zoom." Visual Support Contact Us With questions or feedback on accessibility features on our mobile applications, please contact accessibility@usatoday.com. © Copyright Gannett 2022
