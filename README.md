@@ -9,3 +9,7 @@
 [Homework #3](https://github.com/abala2017/NLPAssignments/tree/main/Homework3)
 
 [Homework Wordnet](https://github.com/abala2017/NLPAssignments/tree/main/WordNet)
+
+[Homework N-grams](https://github.com/abala2017/NLPAssignments/tree/main/Ngrams)
+
+[Homework Webcrawler](https://github.com/abala2017/NLPAssignments/tree/main/WebCrawler)
