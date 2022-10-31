@@ -13,3 +13,5 @@
 [Homework N-grams](https://github.com/abala2017/NLPAssignments/tree/main/Ngrams)
 
 [Homework Webcrawler](https://github.com/abala2017/NLPAssignments/tree/main/WebCrawler)
+
+[Homework Syntax Parser](https://github.com/abala2017/NLPAssignments/tree/main/SentenceParsing)
