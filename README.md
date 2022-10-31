@@ -15,3 +15,5 @@
 [Homework Webcrawler](https://github.com/abala2017/NLPAssignments/tree/main/WebCrawler)
 
 [Homework Syntax Parser](https://github.com/abala2017/NLPAssignments/tree/main/SentenceParsing)
+
+[Homework Author Attribution](https://github.com/abala2017/NLPAssignments/tree/main/Author%20Attribution)
