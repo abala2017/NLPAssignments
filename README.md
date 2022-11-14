@@ -17,3 +17,7 @@
 [Homework Syntax Parser](https://github.com/abala2017/NLPAssignments/tree/main/SentenceParsing)
 
 [Homework Author Attribution](https://github.com/abala2017/NLPAssignments/tree/main/Author%20Attribution)
+
+[Homework Reading ACL Paper](https://github.com/abala2017/NLPAssignments/tree/main/Reading%20ACL%20Papers)
+
+[Chatbot Project](https://github.com/abala2017/NLPAssignments/tree/main/Chatbot%20Project)
