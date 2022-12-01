@@ -1,4 +1,3 @@
 To rerun
-1. Run through the grabData.ipynb notebook to create dataset.csv
-2. Run through the PreprocessedData.ipynb to create preprocessedDataset.csv
-3. Run through the Model.ipynb to train and build the model
+1. Run PreprocessData.ipynb to create the cleaned datasets
+2. Run RNN and LSTM.ipynb to train and run the RNN and LSTM
